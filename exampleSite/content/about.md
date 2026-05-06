@@ -1,4 +1,5 @@
 ---
+![Lori Soller](/lori/20211111_143836.jpg)
 title: "About the Artist"
 ---
 
