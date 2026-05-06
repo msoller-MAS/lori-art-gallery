@@ -2,7 +2,7 @@
 title: "About the Artist"
 ---
 
-![Lori Soller](/mystical/20211111_143836.jpg)
+![Lori Soller](/lori/20211111_143836.jpg)
 
 # Lori Soller: Visionary Artist
 
