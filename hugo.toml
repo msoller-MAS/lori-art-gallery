@@ -1,7 +1,8 @@
 baseURL = "https://effulgent-bavarois-c403ec.netlify.app/"
 title = "Lori Soller: Visionary Art"
-# We leave 'theme' blank because the files are in your main folder
-theme = "" 
+
+# REMOVE or COMMENT OUT the theme line entirely
+# theme = "hugo-theme-gallery"
 defaultContentLanguage = "en"
 
 [params]
