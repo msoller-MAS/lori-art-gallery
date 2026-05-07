@@ -1,4 +1,6 @@
 ---
-title: "Holiday Collection"
-description: "Hand-crafted seasonal magic and festive decor by Lori Soller."
+title: "Wall Art"
+description: "Original paintings and visionary wall hangings."
+# Tell the theme exactly which photo to lead with
+featuredImage: "00_Lori_Halloween.jpg" 
 ---
