@@ -1,0 +1,22 @@
+baseURL = "https://effulgent-bavarois-c403ec.netlify.app/"
+title = "Lori Soller: Visionary Art"
+# We leave 'theme' blank because the files are in your main folder
+theme = "" 
+defaultContentLanguage = "en"
+
+[params]
+    description = "Visionary Art by Lori Soller"
+
+[menu]
+  [[menu.main]]
+    name = "Holiday"
+    url = "/holiday/"
+    weight = 10
+  [[menu.main]]
+    name = "Wall Art"
+    url = "/wall-art/"
+    weight = 20
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 30
