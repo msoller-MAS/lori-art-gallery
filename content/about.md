@@ -1,5 +1,6 @@
 ---
 title: "About the Artist"
+draft: false
 ---
 
 ![Lori Soller](/Lori/20211111_143836.jpg)
